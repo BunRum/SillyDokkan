@@ -1,0 +1,90 @@
+{
+    "products": [
+        {
+            "product_id": "bngi0221_dragon_stone_1",
+            "quantity": 1,
+            "status": 0,
+            "name": "Dragon Stone x1",
+            "sales": [
+                {
+                    "product_id": "bngi0221_dragon_stone_10_w_bonus",
+                    "quantity": 1,
+                    "status": 0,
+                    "name": "Dragon Stone x1+2",
+                    "product_sale_id": 9997,
+                    "sale_type": 2,
+                    "purchasing_count_remain": 1,
+                    "bonuses": [
+                        {
+                            "id": 99970,
+                            "item_type": "Point::Stone",
+                            "item_id": 11,
+                            "quantity": 2
+                        }
+                    ],
+                    "start_at": 1658696400,
+                    "end_at": 1669247999
+                }
+            ]
+        },
+        {
+            "product_id": "bngi0221_dragon_stone_2",
+            "quantity": 6,
+            "status": 0,
+            "name": "Dragon Stone x6"
+        },
+        {
+            "product_id": "bngi0221_dragon_stone_3",
+            "quantity": 12,
+            "status": 0,
+            "name": "Dragon Stone x12"
+        },
+        {
+            "product_id": "bngi0221_dragon_stone_4",
+            "quantity": 32,
+            "status": 0,
+            "name": "Dragon Stone x32",
+            "sales": [
+                {
+                    "product_id": "bngi0221_dragon_stone_8_w_discount",
+                    "quantity": 32,
+                    "status": 0,
+                    "name": "Dragon Stone x32",
+                    "product_sale_id": 418,
+                    "sale_type": 1,
+                    "purchasing_count_remain": 2,
+                    "start_at": 1668753000,
+                    "end_at": 1669093199
+                }
+            ]
+        },
+        {
+            "product_id": "bngi0221_dragon_stone_5",
+            "quantity": 63,
+            "status": 0,
+            "name": "Dragon Stone x63"
+        },
+        {
+            "product_id": "bngi0221_dragon_stone_6",
+            "quantity": 91,
+            "status": 0,
+            "name": "Dragon Stone x91",
+            "sales": [
+                {
+                    "product_id": "bngi0221_dragon_stone_9_w_discount",
+                    "quantity": 91,
+                    "status": 0,
+                    "name": "Dragon Stone x91",
+                    "product_sale_id": 419,
+                    "sale_type": 1,
+                    "purchasing_count_remain": 4,
+                    "start_at": 1668753000,
+                    "end_at": 1669093199
+                }
+            ]
+        }
+    ],
+    "daily_reset_at": 1668902400,
+    "expire_at": 1668833454,
+    "processed_at": 1668833154
+}

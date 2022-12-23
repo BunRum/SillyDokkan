@@ -1,0 +1,185 @@
+{
+    "cards": [],
+    "item_cards": [],
+    "user_card_id_updates": {},
+    "card_tags": [
+        {
+            "num": 1,
+            "name": "",
+            "user_card_ids": []
+        },
+        {
+            "num": 2,
+            "name": "",
+            "user_card_ids": []
+        },
+        {
+            "num": 3,
+            "name": "",
+            "user_card_ids": []
+        },
+        {
+            "num": 4,
+            "name": "",
+            "user_card_ids": []
+        },
+        {
+            "num": 5,
+            "name": "",
+            "user_card_ids": []
+        },
+        {
+            "num": 6,
+            "name": "",
+            "user_card_ids": []
+        },
+        {
+            "num": 7,
+            "name": "",
+            "user_card_ids": []
+        }
+    ],
+    "teams": {
+        "selected_team_num": 1,
+        "user_card_teams": []
+    },
+    "support_leaders": {
+        "support_leader_ids": []
+    },
+    "friendships": {
+        "friendships": [],
+        "pending_friendships": [],
+        "max_accepts_at_once": 30
+    },
+    "dragonball_sets": [],
+    "missions_data": {},
+    "gashas": {},
+    "shops/treasure/items": {},
+    "secret_treasure_boxes": [],
+    "act_items": [],
+    "support_items": {
+        "items": []
+    },
+    "support_memories": [],
+    "support_films": [],
+    "support_film_max_quantity": 500,
+    "awakening_items": [],
+    "training_items": [],
+    "training_fields": [],
+    "treasure_items": {
+        "user_treasure_items": []
+    },
+    "potential_items": {
+        "user_potential_items": []
+    },
+    "eventkagi_items": [],
+    "wallpaper_items": [],
+    "equipment_skill_items": [],
+    "card_sticker_items": [],
+    "user_areas": {
+        "user_areas": [],
+        "user_z_battles": [ ]
+    },
+    "user_subscription": {
+        "category_id": 11,
+        "processed_at": 1671607337
+    },
+    "budokai": {},
+    "rmbattles": {},
+    "sns_campaign": {},
+    "login_movies": [],
+    "announcement_tab_id": 1,
+    "announcement_tabs": [
+        {
+            "id": 1,
+            "name": "Campaign",
+            "priority": 10
+        },
+        {
+            "id": 2,
+            "name": "Event",
+            "priority": 5
+        },
+        {
+            "id": 3,
+            "name": "Other",
+            "priority": 1
+        }
+    ],
+    "announcements": [],
+    "chain_battles": {},
+    "gifts": [],
+    "joint_campaigns": {},
+    "sd/characters": {
+        "sd_characters": [],
+        "collection_ids": []
+    },
+    "sd/packs": {
+        "sd_packs": []
+    },
+    "sd/battle": {
+        "id": 16,
+        "start_at": 1671604200,
+        "end_at": 1672208999,
+        "result_end_at": 1672811999,
+        "sd_map_id": 15,
+        "tutorial": {
+            "is_opening_finished": true,
+            "progress": 0
+        },
+        "stages_in_progress": [],
+        "login_bonuses": [],
+        "expires_at": 1671667200
+    },
+    "cooperation_campaigns": {},
+    "genkai_battles": {
+        "genkai_battles": [
+            {
+                "id": 1,
+                "sugoroku_map_id": 9010102,
+                "area_id": 901,
+                "start_at": 1670803200,
+                "end_at": 1672358399,
+                "genkai_battle_schedule_id": 1,
+                "listbutton_image": "https://cf.ishin-global.aktsk.com/banners/en/event/eve_listbutton/myp_banner_event_901.png?Expires=1671610091\u0026Signature=jE7lXGGdbsb3je-qozrZD7PnQaCRRQOZqpXISZnQQvPaxEOEO5nrGj967yKz5WEBcTVxf2Mu-AMY2pJhkwCU9Ui7RLVz6gcD91s~eQDss45RQHwFDLLMJTvdqW2r3vjwP24kSfYoXHKWAXC6rgYMYv29QZ9Aw2KeKpjEh~f8w6qJS8ke2jFgE2KoXLgXP1oHjE1-GeP4pwVc59J8aKaONiMYDmBq9VfpCergrO0fwtbpnwSZIcrFuEJRhi7Z~fNBnJINo0-b1xLR2QQsfKRWZfyLSM-Ltq8P7Y50LVPtglRpo8Ll7VXGhbNCINhcP74e21t-HTm7hkEbhcOdAgVQqw__\u0026Key-Pair-Id=APKAI5CNWVPOYRVLGC6Q",
+                "is_new": true
+            }
+        ],
+        "genkai_battle_reward_acceptable": false,
+        "expire_at": 1671609600
+    },
+    "jukeboxes": {
+        "jukebox_albums": [
+            {
+                "id": 1,
+                "jacket_image_url": "https://cf.ishin-global.aktsk.com/images/en/jukebox/juke_album_big_99999.png?Expires=1671610091\u0026Signature=KLUcXaEzqRHexb3D1BU0Jt4oiX5JtHF7otwkSYo-i7~QgO72Uzh15~CcRP80nn65GxXwj9VuDPxd1FvPLFxPhDvc0IpUYldOAyu~yiM~PRhCreC3Z9~MHG9nU-KJMTT6WofbFd1ddrscg~aN691z6-r4Xc0z7oRCpJBWphzWrK7rsZh6me67RVifO33T3ZXPqUG8IAZ~7QIry4LC5sAri0ay3xxB0UQ638ke9trViyGOIoZmZXsjeNKQEnT7CvtJtDU4VuwpmgsyV0A-W4ZX1joRR3TGrv7tOfmraIF7drHDG6-7JWEAWBrGsgKK3q7tQF~~-0Mx3IcTm~jkBxGAnA__\u0026Key-Pair-Id=APKAI5CNWVPOYRVLGC6Q",
+                "jacket_thumbnail_url": "https://cf.ishin-global.aktsk.com/images/en/jukebox/juke_album_small_99999.png?Expires=1671610091\u0026Signature=k~Dr3xjQJh8H8fBls4yJU2GKo1yMX12Y2AEC5I1h5qkoyahoI7nPgNBUm6NKa8Rq6sQ4QPGEv8~3~9O81uImsVp1XI~StY01GndWVHtMjn8Eh2lQgEsYbB9hG1x3Ou35gdmmQtDkWsCB6jt5IIh7pacu7tSLikpyAusCqhYia-f22oP8URK8S7jn0sxSdPKg55jwfIlCmlg1SD74F~SzOI9Bah9iVxxKTa3PajTAgLFtXwQGvy4G6lqsOgUGeHxvu2Nfa5NB3njLlBvbi9FaWeEfNEbQKpUQdwInBiIqBeUVUtfwHasMt~4s9rcPSIaR4XpL~nXkjYhwyiGc-8szrw__\u0026Key-Pair-Id=APKAI5CNWVPOYRVLGC6Q"
+            },
+            {
+                "id": 2,
+                "jacket_image_url": "https://cf.ishin-global.aktsk.com/images/en/jukebox/juke_album_big_901.png?Expires=1671610091\u0026Signature=iC9LFA5dDRkQPZmkVeEeIxvjLIe7Bk8QJNjNMEgYt6IAe8BHdNjgU1LZN4Ack-7E-wsvqGrj7eXJCbzd0IZwNnYuWRz9fRoW0NQadv9AnMTzZWF-WEBzwY8Kclilaz4DrzXluIiBG0ZTLI2TwaSHsZu5apvz76UXthL8~2h0PIyf6A2uYlJpve3hr0VnRyYGcEo0luXEkvLQkFCziwC4Irv2cnI72QAZwcXYW5XH2mJGcPkSmUCL429CQpk5418kF8MOfFMHNS~Pnwx81Va90XGax2iG4VqEHXNI0BFspBchZZSDPHjp780JUXzzuDUUlrNuoh9OkVhae9NykXRvWg__\u0026Key-Pair-Id=APKAI5CNWVPOYRVLGC6Q",
+                "jacket_thumbnail_url": "https://cf.ishin-global.aktsk.com/images/en/jukebox/juke_album_small_901.png?Expires=1671610091\u0026Signature=OO5FduOTYn1uqUsKkJC5gMgzFnAWyp1mXJtKu-a41QJkiHQ5WOZ~gtW0pvPV10d8NSsVlSXJY6qaWsuLj~UrI0YgJvX3lFrUdtahZg6nina~eh9EdP9lPsorzBbQShhQM4jyVCwGjTGWW3Z-5IMQVD2FgmHTkW5PCwAo2JwgNuWI39lYfeANfOxcecIMTfSwP5GkLiGvkQ~6J-XWBphIeX03e~lPQDyX~UzTpPMwADiR4DmSCfGxJPfeDsXZimEwroZaTsw9KxnKtrbxxOidt5NZ3h9fav3bjubc4ay3fRhvdpNDEYhEaFn00vmRiBjRH3aDoACkUa2YaBSTQnh8Yw__\u0026Key-Pair-Id=APKAI5CNWVPOYRVLGC6Q"
+            }
+        ],
+        "jukebox_tracks": [
+            {
+                "id": 1,
+                "point": 0,
+                "unlocked_at": null,
+                "acquired_at": null
+            },
+            {
+                "id": 2,
+                "point": 1000,
+                "unlocked_at": null,
+                "acquired_at": null
+            },
+            {
+                "id": 101,
+                "point": 3000,
+                "unlocked_at": null,
+                "acquired_at": null
+            }
+        ]
+    }
+}

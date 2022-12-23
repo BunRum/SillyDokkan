@@ -1,0 +1,34 @@
+{
+  "name": "sillydokkanserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "server": "node start.js",
+    "devserver": "nodemon --ignore public/ --ignore local/ start.js",
+    "olddevserver": "nodemon --ignore public/ --ignore local/ old.js",
+    "proxy": "python proxy.py",
+    "devproxy": "nodemon --ignore public/ --ignore local/ --exec python proxy.py",
+    "silly": "npm-run-all -p proxy server",
+    "devsilly": "npm-run-all -p devproxy devserver",
+    "devbuild": "pkg --output build/SillyDokkan.exe --compress Brotli obfs.js && robocopy local build/local && robocopy public build/public && copy cert.pem build && copy key.pem build",
+    "build": "pkg --output build/SillyDokkan.exe --compress Brotli start.js && robocopy local build/local && robocopy public build/public && copy cert.pem build && copy key.pem build"
+  },
+  "dependencies": {
+    "@journeyapps/sqlcipher": "^5.3.1",
+    "@pureproxy/mitmproxy": "^2.2.0",
+    "dayjs": "^1.11.7",
+    "express": "^4.18.2",
+    "express-formidable": "^1.2.0",
+    "formidable": "^3.2.5",
+    "glob": "^8.0.3",
+    "ip": "^1.1.8",
+    "mitm": "^1.7.2",
+    "mitm-proxy": "^0.0.1",
+    "mkdirp": "^1.0.4",
+    "node-resourcehacker": "^1.2.1",
+    "nodemon": "^2.0.20",
+    "npm-run-all": "^4.1.5",
+    "python-shell": "^3.0.1"
+  }
+}

@@ -1,0 +1,13 @@
+[
+    {
+        "achievement_id": 1,
+        "acquirements": [
+            {
+                "type": "adventure",
+                "area_id": 1,
+                "sugoroku_map_ids": [],
+                "listbutton_image": "https://cf.ishin-global.aktsk.com/banners/en/event/eve_listbutton/myp_banner_bouken.png?Expires=1669585723&Signature=eF3waBFO4Xci6clUfKosjrly619QARdgqqJDaJ2qpvJS~6lMWJXxB5Tfr2QouGUJWTOYBjJ68tYSfy5ZemlMHEfw-KcfxQp68Opdv0abAMKl7dUjvyrBfPLX254WzXVBtWBpG5~rlwMIhpZGvMO28YGfW21efNjqS6WRfVicfYtQeZD5Bc34-dp~qELziwKF0LLW8JNVQrPG44Z8kELONrAP4KuzCTRd5kC0Epsn3tugMfkBTuyIkO1Wvz9xkOGUDVd7RF~hOtwr20mwDofAjUpmvQViR2MNHQ47SsCiYI~v7aKh7mgV-5aZxS2MXMdDldy8uvCeAoQQpDkuVBSZHA__&Key-Pair-Id=APKAI5CNWVPOYRVLGC6Q"
+            }
+        ]
+    }
+]

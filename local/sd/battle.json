@@ -1,0 +1,12 @@
+{
+    "id": 1,
+    "start_at": 1999999999,
+    "end_at": 1999999999,
+    "result_end_at": 1999999999,
+    "sd_map_id": 1,
+    "tutorial": {
+        "is_opening_finished": true,
+        "progress": 255
+    },
+    "expires_at": 1999999999
+}

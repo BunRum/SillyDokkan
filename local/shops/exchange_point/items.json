@@ -1,0 +1,24 @@
+{
+    "shop_on_sale_items": [
+        {
+            "id": 1,
+            "discount_price": 21000,
+            "is_premium": true,
+            "buyable": true,
+            "buyable_num": 1,
+            "currency_id": 14,
+            "currency_type": "Point::ExchangePoint",
+            "price": 30000,
+            "shop_items": [
+                {
+                    "item_id": 1642011,
+                    "item_type": "Card",
+                    "quantity": 1,
+                    "card_exp_init": 500000000  
+                }
+            ]
+        }
+    ],  
+    "next_change_at": 4099495318000,
+    "processed_at": 1669118894
+}

@@ -1,0 +1,13 @@
+{
+    "banners": [
+        {
+            "id": 1,
+            "image": "https://bunrumz.com/assets/banner.png",
+            "link_to": "https://www.instagram.com/dragon_ball_z_dokkan_battle/",
+            "description": "soy awesome",
+            "start_at": 1590733802,
+            "end_at": 1924991999
+        }
+    ],
+    "treasure_item_switching_banners": []
+}

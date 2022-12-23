@@ -1,0 +1,38 @@
+{
+    "events": [
+        {
+            "id": 111,
+            "event_image": "./banners/event/111/event.png",
+            "banner_image": "./banners/event/111/banner.png",
+            "minibanner_image": null,
+            "listbutton_image": null,
+            "recommend": null,
+            "lock": null,
+            "start_at": 1506061800,
+            "end_at": 2145916800,
+            "wday": [
+                "sunday",
+                "monday",
+                "tuesday",
+                "wednesday",
+                "thursday",
+                "friday",
+                "saturday"
+            ],
+            "wday_start_at": 1668124800,
+            "wday_end_at": 1668211200,
+            "quests": [
+                {
+                    "id": 111001,
+                    "name": "Showdown Against Stickman",
+                    "visit_count_max": null,
+                    "interval_reset_visited_days": null,
+                    "user_quest": {
+                        "visited_count": 1,
+                        "next_reset_at": null
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,222 @@
+{
+    "shop_on_sale_items": [
+        {
+            "id": 19151,
+            "discount_price": 3000000,
+            "is_premium": false,
+            "buyable": true,
+            "buyable_num": 1,
+            "currency_id": 13,
+            "currency_type": "Point::Zeni",
+            "price": 3000000,
+            "shop_items": [
+                {
+                    "item_id": 200364,
+                    "item_type": "AwakeningItem",
+                    "quantity": 1,
+                    "card_exp_init": 0
+                }
+            ]
+        },
+        {
+            "id": 19152,
+            "discount_price": 3000000,
+            "is_premium": false,
+            "buyable": true,
+            "buyable_num": 1,
+            "currency_id": 13,
+            "currency_type": "Point::Zeni",
+            "price": 3000000,
+            "shop_items": [
+                {
+                    "item_id": 200364,
+                    "item_type": "AwakeningItem",
+                    "quantity": 1,
+                    "card_exp_init": 0
+                }
+            ]
+        },
+        {
+            "id": 19153,
+            "discount_price": 3000000,
+            "is_premium": false,
+            "buyable": true,
+            "buyable_num": 1,
+            "currency_id": 13,
+            "currency_type": "Point::Zeni",
+            "price": 3000000,
+            "shop_items": [
+                {
+                    "item_id": 200364,
+                    "item_type": "AwakeningItem",
+                    "quantity": 1,
+                    "card_exp_init": 0
+                }
+            ]
+        },
+        {
+            "id": 6672,
+            "discount_price": 1000000,
+            "is_premium": false,
+            "buyable": true,
+            "buyable_num": 1,
+            "currency_id": 13,
+            "currency_type": "Point::Zeni",
+            "price": 1000000,
+            "shop_items": [
+                {
+                    "item_id": 900003,
+                    "item_type": "AwakeningItem",
+                    "quantity": 1,
+                    "card_exp_init": 0
+                }
+            ]
+        },
+        {
+            "id": 18804,
+            "discount_price": 1000000,
+            "is_premium": false,
+            "buyable": true,
+            "buyable_num": 1,
+            "currency_id": 13,
+            "currency_type": "Point::Zeni",
+            "price": 1000000,
+            "shop_items": [
+                {
+                    "item_id": 900002,
+                    "item_type": "AwakeningItem",
+                    "quantity": 1,
+                    "card_exp_init": 0
+                }
+            ]
+        },
+        {
+            "id": 18805,
+            "discount_price": 1000000,
+            "is_premium": false,
+            "buyable": true,
+            "buyable_num": 1,
+            "currency_id": 13,
+            "currency_type": "Point::Zeni",
+            "price": 1000000,
+            "shop_items": [
+                {
+                    "item_id": 900002,
+                    "item_type": "AwakeningItem",
+                    "quantity": 1,
+                    "card_exp_init": 0
+                }
+            ]
+        },
+        {
+            "id": 18806,
+            "discount_price": 1000000,
+            "is_premium": false,
+            "buyable": true,
+            "buyable_num": 1,
+            "currency_id": 13,
+            "currency_type": "Point::Zeni",
+            "price": 1000000,
+            "shop_items": [
+                {
+                    "item_id": 900002,
+                    "item_type": "AwakeningItem",
+                    "quantity": 1,
+                    "card_exp_init": 0
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "discount_price": 50000,
+            "is_premium": false,
+            "buyable": true,
+            "buyable_num": 1,
+            "currency_id": 13,
+            "currency_type": "Point::Zeni",
+            "price": 50000,
+            "shop_items": [
+                {
+                    "item_id": 6,
+                    "item_type": "SupportItem",
+                    "quantity": 3,
+                    "card_exp_init": 0
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "discount_price": 25000,
+            "is_premium": false,
+            "buyable": true,
+            "buyable_num": 1,
+            "currency_id": 13,
+            "currency_type": "Point::Zeni",
+            "price": 25000,
+            "shop_items": [
+                {
+                    "item_id": 3,
+                    "item_type": "TrainingField",
+                    "quantity": 1,
+                    "card_exp_init": 0
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "discount_price": 25000,
+            "is_premium": false,
+            "buyable": true,
+            "buyable_num": 1,
+            "currency_id": 13,
+            "currency_type": "Point::Zeni",
+            "price": 25000,
+            "shop_items": [
+                {
+                    "item_id": 1,
+                    "item_type": "AwakeningItem",
+                    "quantity": 5,
+                    "card_exp_init": 0
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "discount_price": 25000,
+            "is_premium": false,
+            "buyable": true,
+            "buyable_num": 1,
+            "currency_id": 13,
+            "currency_type": "Point::Zeni",
+            "price": 25000,
+            "shop_items": [
+                {
+                    "item_id": 2,
+                    "item_type": "AwakeningItem",
+                    "quantity": 5,
+                    "card_exp_init": 0
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "discount_price": 25000,
+            "is_premium": false,
+            "buyable": true,
+            "buyable_num": 1,
+            "currency_id": 13,
+            "currency_type": "Point::Zeni",
+            "price": 25000,
+            "shop_items": [
+                {
+                    "item_id": 3,
+                    "item_type": "AwakeningItem",
+                    "quantity": 5,
+                    "card_exp_init": 0
+                }
+            ]
+        }
+    ],
+    "next_change_at": 1669205301,
+    "processed_at": 1669118901
+}
